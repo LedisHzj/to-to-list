@@ -1,0 +1,6 @@
+{
+  "todos": [
+    { "id": "1", "text": "Sample To-Do 1", "completed": false },
+    { "id": "2", "text": "Sample To-Do 2", "completed": true }
+  ]
+}
